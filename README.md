@@ -1,2 +1,2 @@
-# C-20-project
-game
+# GCSO
+GCSO
